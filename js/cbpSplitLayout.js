@@ -20,9 +20,9 @@
 	}
 
 	var splitlayout = document.getElementById( 'splitlayout' ),
-		leftSide = splitlayout.querySelector( 'div.intro > div.side-left' ),
+		
 		rightSide = splitlayout.querySelector( 'div.intro > div.side-right' ),
-		pageLeft = splitlayout.querySelector( 'div.page-left' ),
+		
 		pageRight = splitlayout.querySelector( 'div.page-right' ),
 		eventtype = mobilecheck() ? 'touchstart' : 'click',
 		transEndEventNames = {
@@ -41,11 +41,6 @@
 		classie.add( splitlayout, 'reset-layout' );
 		var page_contents = pageRight.querySelector('div.page-inner')
 
-		leftSide.querySelector( 'div.intro-content' ).addEventListener( eventtype, function( ev ) {
-			reset();
-			classie.add( splitlayout, 'open-left' );
-		} );
-		
 
 		rightSide.querySelector( 'div.intro-content' ).addEventListener( eventtype, function( ev ) {
 			console.log("opening the right side");

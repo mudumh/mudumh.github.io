@@ -210,9 +210,17 @@ body {
 .splitlayout.open-left {
 	background: #34495e;
 }
+aside#mainmenu nav ul{
+	list-style: none;
+}
 aside#mainmenu nav ul li a{
-	font-size: 200%;
-	color: black;
+	font-size: 300%;
+	color: rgb(71,161,280);
+	
+
+}
+aside#mainmenu nav ul li {
+	margin-top:10px;
 }
 
 /* Inner page content */
