@@ -7,7 +7,7 @@ html, body,
 
 body {
 	overflow-y: scroll;
-	background: #333;
+	background-color: rgb(52,73,94);
 }
 
 .splitlayout {
@@ -183,18 +183,23 @@ body {
 	font-size: 1.4em;
 	-webkit-backface-visibility: hidden;
 }
+.splitlayout{
+	background-color: rgb(52,73,94);
+}
 
 .page-right {
 	left: 25%;
-	outline: 5px solid #ecf0f1; /* avoid rounding gaps */
-	background: #ecf0f1;
-	color: #97a8b2;
+	
+	background-color: rgb(52,73,94);
+	color: white;
 	-webkit-transform: translateX(100%);
 	transform: translateX(100%);
+	
 }
 
+
 .splitlayout.open-right {
-	background: #ecf0f1;
+	background-color: rgb(52,73,94);
 }
 
 .page-left {
