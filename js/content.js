@@ -43,7 +43,7 @@ function getBooksAndMoviesContents(){
 
 function getResumeContents(){
 
-	var content = " <p>I am very curious and love learning. I am interested in UI engineering and product management.</p>\
+	var content = " <p>Excited about Consumer Software products, MOOCS, Food, Books and Travel. Interested in UI engineering and product management and Meditation.</p>\
 	<h2>Education</h2>\
 	<ul>\
 		<li> BE(Hons) - Computer Science, BITS-Pilani, India. 2007 - 2011</li>\
@@ -57,7 +57,7 @@ function getResumeContents(){
 	</ul>\
 	<h2>Skills</h2>\
 	<ul>\
-		<li>HTML5, CSS3, Haml, Sass, JavaScript(Proficient)</li>\
+		<li>HTML5, CSS3, Haml, Sass, JavaScript(Proficient), RWD</li>\
 		<li>Java(Intermediate), Ruby</li>\
 		<li>Ruby on Rails, jQuery, iOS, Node.js(beginner)</li>\
 		<li>Photoshop, Balsamic(Wireframing Software)</li>\
