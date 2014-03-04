@@ -48,9 +48,14 @@
 			console.log(ev.target.id);
 			var link_selected = ev.target.id;
 			page_contents.innerHTML = getContentForLink(link_selected);
-
+			// add a delay here to make sure that the contents are loaded
+			
 			reset();
-			classie.add( splitlayout, 'open-right' );
+			classie.add( splitlayout, 'open-right' );	
+			
+
+			
+			
 		} );
 
 
