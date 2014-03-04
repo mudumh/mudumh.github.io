@@ -20,21 +20,23 @@ function getContentForLink(link){
 
 function getBooksAndMoviesContents(){
 	var content = "<h2>Books</h2><ul>\
+		<li> The Art of Product Management</li>\
 		<li> A Suitable Boy</li>\
 		<li>The design of Everyday Things</li>\
 		<li>The Power of Now</li>\
 		<li>The Sea of Poppies</li>\
 		<li>The sorrows of young wether</li>\
 		<li>Thinking fast,Thinking slow</li>\
+		<li>The Supreme Yoga by Swami Venkatesananda</li>\
 	</ul>\
 	<h2>Movies</h2>\
 	<ul>\
-		<li> 400 Blows</li>\
+		<li>400 Blows</li>\
 		<li>Pather Panchali</li>\
 		<li>Geetanjali</li>\
 		<li>2001 Space Odyssey</li>\
-		<li>The sorrows of young wether</li>\
-		<li>Thinking fast,Thinking slow</li>\
+		<li>Gravity</li>\
+		<li>Roshomon</li>\
 	</ul>";
 	
 	return content;
@@ -51,9 +53,9 @@ function getResumeContents(){
 	</ul>\
 	<h2>Work Experience</h2>\
 	<ul>\
-		<li>Software Engineering Intern - Cisco Systems. May 2013 - August 2013</li>\
-		<li>Research Assitant, Rensselaer Polytechnic Institute. August 2013 - Dec 2013</li>\
-		<li>Associate Software Engineer - Kony Labs. Jan 2011 - April 2012 </li>\
+		<li>Software Engineering Intern - Cisco Systems, San Jose. May 2013 - August 2013</li>\
+		<li>Research Assitant, Rensselaer Polytechnic Institute,NY. August 2013 - Dec 2013</li>\
+		<li>Associate Software Engineer - Mobile Applications. Kony Labs, Hyderabad, India. Jan 2011 - April 2012 </li>\
 	</ul>\
 	<h2>Skills</h2>\
 	<ul>\
