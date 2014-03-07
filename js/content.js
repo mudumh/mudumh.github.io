@@ -72,11 +72,10 @@ function getResumeContents(){
 
 function getPortfolioContents(){
 	var content = "<ul>\
-	<li> A movie review App built using Ruby on rails</li>\
+	<li> A movie review app built using Ruby on rails</li>\
 	<li>A fund raiser app built using Ruby on rails</li>\
 	<li>Short and Concise timelines of Artists, Tech Visionaries, Freedom Fighters</li>\
 	<li>A wesbite comparing smartphones and tablets</li>\
-	<li>A personal  website for a friend</li>\
 	<li>A simple pong game in JS.</li>\
 	<li>Javascript framework</li>\
 	<li> A to do list in iphone. </li>\
