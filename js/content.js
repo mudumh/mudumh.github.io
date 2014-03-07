@@ -75,11 +75,11 @@ function getPortfolioContents(){
 	"<div>\
 	<p> <a href='http://fast-brushlands-3606.herokuapp.com/'> A movie review app built using Ruby on rails</a> <p> <img src='img/flix.png' alt='movie review app'> </p>\
 	<p> <a href='http://mudumh.github.io/shortbios/'> Short and concise timelines of Artists, Tech Visionaries, Freedom Fighters</a> <p> <img src='img/shortbios.png' alt='shortbios'> </p>\
-	<p> <a href='http://mudumh.github.io/shortbios/'> A wesbite comparing smartphones and tablets</a> <p> <img src='img/phones.png' alt='phone comparision site'> </p>\
-	<p> <a href='http://mudumh.github.io/shortbios/'> A simple pong game in JS.</a> <p> <img src='img/pong.png' alt='pong.jpg'> </p>\
-	<p> <a href='http://mudumh.github.io/shortbios/'> A CSS Preprocessor. Written in Javascript.</a> <p>  </p>\
-	<p> <a href='http://mudumh.github.io/shortbios/'> A to do list in iphone.</a> <p> <img src='img/todolist.PNG' alt=''> </p>\
-	<p> <a href='http://mudumh.github.io/shortbios/'> A navigation controller plugin for iOS.</a> <p> <img src='img/dragmenu.PNG' alt=''></p>\
+	<p> <a href='http://mudumh.github.io/phonecompare/'> A wesbite comparing smartphones and tablets</a> <p> <img src='img/phones.png' alt='phone comparision site'> </p>\
+	<p> <a href='https://github.com/mudumh/Pong'> A simple pong game in JS.</a> <p> <img src='img/pong.png' alt='pong.jpg'> </p>\
+	<p> <a href=''> A CSS Preprocessor. Written in Javascript.</a> <p>  </p>\
+	<p> <a href=''> A to do list in iPhone.</a> <p> <img src='img/todolist.PNG' alt=''> </p>\
+	<p> <a href=''> A navigation controller plugin for iOS.</a> <p> <img src='img/dragmenu.PNG' alt=''></p>\
 	</div>\
 	";
 	return content;
