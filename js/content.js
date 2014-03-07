@@ -78,8 +78,8 @@ function getPortfolioContents(){
 	<li>A wesbite comparing smartphones and tablets<p><img src='img/phones.png' alt='phone comparision site'></p></li>\
 	<li>A simple pong game in JS.<p><img src='img/pong.png' alt='phones.jpg'></p></li>\
 	<li>A CSS Preprocessor. Written in Javascript.</li>\
-	<li> A to do list in iphone.<p><img src='img/todo.png' alt='phones.jpg'></p> </li>\
-	<li>A navigation controller plugin for iOS<p><img src='img/drag.png' alt='phones.jpg'></p></li>\
+	<li>A to do list in iphone.<p><img src='img/todo.png' alt=''></p></li>\
+	<li>A navigation controller plugin for iOS<p><img src='img/dragmenu.PNG' alt=''></p></li>\
 	</ul>\
 	\
 	";
