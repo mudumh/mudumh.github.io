@@ -73,6 +73,7 @@ function getResumeContents(){
 function getPortfolioContents(){
 	var content = 
 	"<div>\
+	<p>Some of my recent projects:</p>\
 	<p> <a href='http://fast-brushlands-3606.herokuapp.com/'> A movie review app built using Ruby on rails</a> <p> <img src='img/flix.png' alt='movie review app'> </p>\
 	<p> <a href='http://mudumh.github.io/shortbios/'> Short and concise timelines of Artists, Tech Visionaries, Freedom Fighters</a> <p> <img src='img/shortbios.png' alt='shortbios'> </p>\
 	<p> <a href='http://mudumh.github.io/phonecompare/'> A wesbite comparing smartphones and tablets</a> <p> <img src='img/phones.png' alt='phone comparision site'> </p>\
