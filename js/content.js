@@ -45,7 +45,7 @@ function getBooksAndMoviesContents(){
 
 function getResumeContents(){
 
-	var content = " <p>Excited about Consumer Software products, MOOCS, Food, Books and Travel. Interested in UI engineering and product management and Meditation.</p>\
+	var content = " <p>Excited about consumer software products, MOOCS, Food, Books and Travel. Interested in UI engineering and product management and Meditation.</p>\
 	<h2>Education</h2>\
 	<ul>\
 		<li> BE(Hons) - Computer Science, BITS-Pilani, India. 2007 - 2011</li>\
@@ -53,35 +53,34 @@ function getResumeContents(){
 	</ul>\
 	<h2>Work Experience</h2>\
 	<ul>\
-		<li>Software Engineering Intern - Cisco Systems, San Jose. May 2013 - August 2013</li>\
-		<li>Research Assitant, Rensselaer Polytechnic Institute,NY. August 2013 - Dec 2013</li>\
-		<li>Associate Software Engineer - Mobile Applications. Kony Labs, Hyderabad, India. Jan 2011 - April 2012 </li>\
+		<li>Software Engineering Intern - Cisco Systems, San Jose. May 2013 - August 2013.</li>\
+		<li>Research Assitant, Rensselaer Polytechnic Institute,NY. August 2013 - Dec 2013.</li>\
+		<li>Associate Software Engineer - Mobile Applications. Kony Labs, Hyderabad, India. Jan 2011 - April 2012.</li>\
 	</ul>\
 	<h2>Skills</h2>\
 	<ul>\
-		<li>HTML5, CSS3, Haml, Sass, JavaScript(Proficient), RWD</li>\
-		<li>Java(Intermediate), Ruby</li>\
-		<li>Ruby on Rails, jQuery, iOS, Node.js(beginner)</li>\
-		<li>Photoshop, Balsamic(Wireframing Software)</li>\
-		<li>SQL</li>\
-		<li>UNIX, Git</li>\
+		<li>HTML5, CSS3, Haml, Sass, JavaScript(Proficient), RWD.</li>\
+		<li>Java(Intermediate), Ruby.</li>\
+		<li>Ruby on Rails, jQuery, iOS, Node.js(beginner).</li>\
+		<li>Photoshop, Balsamic(Wireframing Software).</li>\
+		<li>SQL.</li>\
+		<li>UNIX, Git.</li>\
 	</ul>\
 	";
 	return content;
 }
 
 function getPortfolioContents(){
-	var content = "<ul>\
-	<li> A movie review app built using Ruby on rails <p><img src='img/flix.png' alt='movie review app'></p></li>\
-	<li>A fund raiser app built using Ruby on rails</li>\
-	<li>Short and Concise timelines of Artists, Tech Visionaries, Freedom Fighters<p><img src='img/shortbios.png' alt='shortbios'></p></li>\
-	<li>A wesbite comparing smartphones and tablets<p><img src='img/phones.png' alt='phone comparision site'></p></li>\
-	<li>A simple pong game in JS.<p><img src='img/pong.png' alt='phones.jpg'></p></li>\
-	<li>A CSS Preprocessor. Written in Javascript.</li>\
-	<li>A to do list in iphone.<p><img src='img/todolist.PNG' alt=''></p></li>\
-	<li>A navigation controller plugin for iOS<p><img src='img/dragmenu.PNG' alt=''></p></li>\
-	</ul>\
-	\
+	var content = 
+	"<div>\
+	<p> <a href='http://fast-brushlands-3606.herokuapp.com/'> A movie review app built using Ruby on rails</a> <p> <img src='img/flix.png' alt='movie review app'> </p>\
+	<p> <a href='http://mudumh.github.io/shortbios/'> Short and concise timelines of Artists, Tech Visionaries, Freedom Fighters</a> <p> <img src='img/shortbios.png' alt='shortbios'> </p>\
+	<p> <a href='http://mudumh.github.io/shortbios/'> A wesbite comparing smartphones and tablets</a> <p> <img src='img/phones.png' alt='phone comparision site'> </p>\
+	<p> <a href='http://mudumh.github.io/shortbios/'> A simple pong game in JS.</a> <p> <img src='img/pong.png' alt='pong.jpg'> </p>\
+	<p> <a href='http://mudumh.github.io/shortbios/'> A CSS Preprocessor. Written in Javascript.</a> <p>  </p>\
+	<p> <a href='http://mudumh.github.io/shortbios/'> A to do list in iphone.</a> <p> <img src='img/todolist.PNG' alt=''> </p>\
+	<p> <a href='http://mudumh.github.io/shortbios/'> A navigation controller plugin for iOS.</a> <p> <img src='img/dragmenu.PNG' alt=''></p>\
+	</div>\
 	";
 	return content;
 
